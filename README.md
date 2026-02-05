@@ -65,4 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+
 </div>
