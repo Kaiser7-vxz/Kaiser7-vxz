@@ -2,7 +2,7 @@
 
 # Kaiser
 
-**IT Student · Developer · Cybersecurity Learner · CTF Player**
+**CSIT Student · Developer · Cybersecurity Learner · CTF Player**
 
 
 </div>
@@ -11,7 +11,7 @@
 
 ## `$ whoami`
 
-I'm Kaiser, an IT student with a strong interest in cybersecurity, systems, and software development. I've been actively building my skills through CTF challenges, hands on labs on platforms like HTB and THM, and practical experimentation in offensive security.
+I'm Kaiser, an CSIT student with a strong interest in cybersecurity, systems, and software development. I've been actively building my skills through CTF challenges, hands on labs on platforms like HTB and THM, and practical experimentation in offensive security.
 I spend a lot of time understanding how vulnerabilities work, practicing in lab environments, and developing tools that automate tasks and improve workflows. I'm focused on steadily strengthening my technical foundation while gaining real hands on experience across different areas of security and development.
 
 My goal is to understand systems deeply, build hands on experience, and grow into a capable security researcher over time. I enjoy breaking down how systems work, exploring attack surfaces, and writing code that solves real problems.
