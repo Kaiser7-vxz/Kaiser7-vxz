@@ -62,7 +62,7 @@ I'm open to connecting with others in the security and development space whether
 
 
  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /> 
-    Discord : za_kaizaokami (IMPERATOR) 
+    Discord : za_kaizaokami (Kaiserator) 
  
 </p>
 
